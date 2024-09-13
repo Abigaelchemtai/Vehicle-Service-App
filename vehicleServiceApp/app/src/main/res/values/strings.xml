@@ -1,0 +1,26 @@
+<resources>
+    <string name="phone_number">Phone Number</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+
+    <string name="full_name">Full Names</string>
+    <string name="email">Email Address</string>
+    <string name="new_password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="car_make_model">Car Make and Model</string>
+    <string name="mobile_number">Phone Number</string>
+
+    <string name="current_location">My Current Location</string>
+    <string name="home_icon_description">Home Icon</string>
+
+    <string name="app_name">YourApp</string>
+
+    <string name="register">REGISTER</string>
+    <string name="login_email_hint">Email</string>
+    <string name="login_password_hint">Password</string>
+    <string name="signup_login_hint">Already have an account? Sign In</string>
+    <string name="login_signup_hint">Don\'t have an account? Sign Up</string>
+
+</resources>
+
+
